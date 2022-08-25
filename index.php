@@ -12,7 +12,7 @@
 
     <?php
     $edad = 30;
-    $nombre = "Alejandro";
+    $nombre = "David";
 
    echo "<div class='container'>
            <h1>mi nombre es $nombre</h1>
